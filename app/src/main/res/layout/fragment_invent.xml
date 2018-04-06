@@ -1,0 +1,115 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.admin.inventario.InventFragment"
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/deskBtn"
+        android:layout_marginBottom="8dp"
+        android:background="@color/colorPrimary"
+        android:text="@string/desktop"
+        android:textColor="@android:color/white"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+
+    <EditText
+        android:hint="@string/escribe_la_marca"
+        android:visibility="gone"
+        android:gravity="center"
+        android:id="@+id/marcaEt"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="" />
+
+    <TextView
+        android:id="@+id/titleRadButton"
+        android:visibility="gone"
+        android:textColor="@android:color/white"
+        android:gravity="center"
+        android:background="@color/colorAccent"
+        android:text="@string/elija_modelo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <RadioGroup
+        android:id="@+id/radioGp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal">
+
+    <RadioButton
+        android:visibility="gone"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/modelo1"
+        android:id="@+id/radioButton"
+
+        />
+
+        <RadioButton
+            android:visibility="gone"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/modelo2"
+            android:id="@+id/radioButton2"
+
+            />
+
+        <RadioButton
+            android:visibility="gone"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/modelo3"
+            android:id="@+id/radioButton3"
+           />
+
+
+
+    </RadioGroup>
+
+
+
+
+    <Button
+        android:text="@string/guardar"
+        android:visibility="gone"
+        android:id="@+id/saveDesktop"
+        android:background="@color/colorPrimary"
+        android:textColor="@android:color/white"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        />
+
+    <TextView
+        android:id="@+id/toshowSave"
+        android:visibility="gone"
+        android:textColor="@android:color/white"
+        android:gravity="center"
+        android:background="@color/colorAccent"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        />
+
+    <ImageView
+        android:id="@+id/imgMod"
+        android:visibility="gone"
+        android:src="@mipmap/fotoinventario"
+        android:layout_weight="4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+
+    <Button
+        android:id="@+id/monitorBtn"
+        android:text="@string/monitor"
+        android:textColor="@android:color/white"
+        android:background="@color/colorPrimary"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+
+</LinearLayout>

@@ -1,0 +1,73 @@
+<resources>
+    <string name="app_name">Inventory</string>
+    <string name="infoApp">Informacion de la App</string>
+    <string name="entrar">Entrar</string>
+    <string name="inventario_de_equipos">Inventario de Equipos</string>
+    <string name="acerca_app">Acerca de la App</string>
+
+
+    <string name="resum_app">Esta App esta desarrollada para realizar el inventario de los equipos computacionales de cualquer negocio.
+                 "Esta App permite seleccionr dos tipos de registros de equipos, pertenecientes a los empleados.
+        "* Desktop""
+        " "
+        "* Monitores"
+
+" Este artículo trata sobre el sistema operativo. Para el organismo sintético, véase Androide.
+Android
+Parte de la familia Linux
+Android robot 2014.svg
+Android logo (2014).svg
+
+Android Oreo 8.1 screenshot.png
+
+Pantalla de Inicio de Android 8.1.0 "Oreo"
+Desarrollador
+Google
+Open Handset Alliance
+https://www.android.com
+Información general
+Modelo de desarrollo	Código abierto1​
+Lanzamiento inicial	23 de septiembre de 2008 (info)
+Última versión estable	8.1.0 "Oreo" /
+5 de febrero de 2018 (1 mes y 18 días)
+Tipo de mercado	Teléfonos inteligentes
+Tabletas
+Android TV
+Android Auto
+Wear OS
+Escrito en	Java (UI), C (núcleo), C++
+Núcleo	Núcleo de Linux Modificado
+Tipo de núcleo	Monolítico
+Interfaz gráfica predeterminada	Material Design
+Plataformas soportadas	32 y 64 bits ARM, x64, x86, MIPS y MIPS64
+Sistema de gestión de paquetes	Google Play, APK y alternativas como F-Droid
+Método de actualización	OTA
+Play Store
+Licencia	Apache 2.0 y GNU GPL 22​
+Estado actual	En permanente desarrollo
+Idiomas	Multilingüe
+En español	Sí
+[editar datos en Wikidata]
+Android es un sistema operativo basado en el núcleo Linux. Fue diseñado principalmente para dispositivos móviles con pantalla táctil, como teléfonos inteligentes, tabletas y también para relojes inteligentes, televisores y automóviles. Inicialmente fue desarrollado por Android Inc., empresa que Google respaldó económicamente y más tarde, en 2005, compró.3​ Android fue presentado en 2007 junto la fundación del Open Handset Alliance (un consorcio de compañías de hardware, software y telecomunicaciones) para avanzar en los estándares abiertos de los dispositivos móviles.4​ El primer móvil con el sistema operativo Android fue el HTC Dream y se vendió en octubre de 2008.5​ Android es el sistema operativo móvil más utilizado del mundo, con una cuota de mercado superior al 80% al año 2017, muy por encima de IOS.6​7​8​9​
+
+El éxito del sistema operativo se ha convertido en objeto de litigios sobre patentes en el marco de las llamadas guerras de patentes entre las empresas de teléfonos inteligentes.10​11​ Según los documentos secretos filtrados en 2013 y 2014, el sistema operativo es uno de los objetivos de las agencias de inteligencia internacionales.12​
+
+La versión básica de Android es conocida como Android Open Source Project (AOSP).13​
+
+El 25 de junio de 2014 en la Conferencia de Desarrolladores Google I/O, Google mostró una evolución de la marca Android, con el fin de unificar tanto el hardware como el software y ampliar mercados.
+
+El 17 de mayo de 2017, se presentó Android Go. Una versión más ligera del sistema operativo para ayudar a que la mitad del mundo sin smartphone consiga uno en menos de cinco años. Incluye versiones especiales de sus aplicaciones donde el consumo de datos se reduce al máximo. [1]"
+
+       </string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="guardar">Guardar</string>
+    <string name="modelo3">Modelo3</string>
+    <string name="modelo2">Modelo2</string>
+    <string name="modelo1">Modelo1</string>
+    <string name="elija_modelo">Elija Modelo</string>
+    <string name="escribe_la_marca">Escribe la Marca del Desktop</string>
+    <string name="desktop">Desktop</string>
+    <string name="monitor">Monitor</string>
+</resources>
